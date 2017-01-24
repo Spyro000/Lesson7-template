@@ -224,8 +224,6 @@ a:active {
 /*4.Стили для секции About
 -----------------------*/
 #about {
-	margin-top: 80px;
-	padding: -80px;
 	height: 250px;
 	background-color: #fff;
 }
